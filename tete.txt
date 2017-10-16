@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 resources->are are->developed to->hello hello->to
 ha
+=======
+way->she she->came came->into into->place place->i i->knew knew->miss miss->like like->the the->way 
+>>>>>>> partner/master
