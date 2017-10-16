@@ -32,7 +32,7 @@ public class picture {
     static String[] tabStr;
     static int[][] graph;
 
-    /* Show graph and use the graphviz to paint the graph 1*/
+    /* Show graph and use the graphviz to paint the graph */
     public static void showDirectedGraph(int[][] graph, String[] target) {
         GraphViz gViz = new GraphViz("E:\\nba",
                 "C:\\Program Files (x86)\\Graphviz2.38\\bin\\dot.exe");
